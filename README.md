@@ -15,3 +15,4 @@ My take on networking in flutter using clean and Bloc state management
   - Repository hits `https://restcountries.com/v3.1/all?fields=name`.
   - JSON list is decoded into `Country`/`CountryName` models.
   - UI lists each country name or shows loader/error feedback.
+  - zero warnings
